@@ -1,2 +1,2 @@
 # Primer-proyecto
-primeros ensayos en django
+First steps in django (primeros ensayos en django)
